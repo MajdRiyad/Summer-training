@@ -9,6 +9,7 @@ This repository contains a comprehensive collection of Java programming projects
 | `abs_and_int/` | Abstract classes and interfaces implementation examples |
 | `composite_design/` | Implementation of the Composite design pattern with department hierarchy |
 | `creational_singl/` | Creational design patterns including Singleton pattern and factory implementations |
+| `docs/` | **Training materials and documentation** - PDF resources covering key programming concepts |
 | `first-one/` | Spring Boot project starter template with Maven configuration |
 | `performance_report/` | Spring Boot application for performance reporting and analytics |
 | `pojo_bean/` | Plain Old Java Objects (POJO) and Java Bean implementation examples |
@@ -53,6 +54,13 @@ Each directory contains:
 3. Run: `./mvnw spring-boot:run`
 
 ## Project Highlights
+
+### Training Materials (`docs/`)
+The repository includes comprehensive PDF documentation covering essential programming concepts:
+- **Abstract Class vs Interface.pdf** - Detailed comparison of abstract classes and interfaces in Java
+- **High-Level Language Comparison.pdf** - Analysis of different programming language paradigms
+- **Keys, Constraints, and Indexing.pdf** - Database concepts and optimization techniques
+- **Software Engineering.pdf** - Software development principles and methodologies
 
 ### Design Patterns Implemented
 - **Composite Pattern**: Used in `composite_design/` and `windows_file_system/`
