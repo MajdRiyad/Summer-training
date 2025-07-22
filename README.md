@@ -1,6 +1,6 @@
-# javaT - Java Programming Projects Collection
+# Summer Training - Java Programming Projects Collection
 
-This repository contains a comprehensive collection of Java programming projects covering various design patterns, concepts, and practical implementations developed for coursework and practice.
+This repository contains a comprehensive collection of Java programming projects covering various design patterns, concepts, and practical implementations developed for summer training coursework and practice.
 
 ## Table of Contents
 
