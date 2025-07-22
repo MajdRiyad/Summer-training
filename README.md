@@ -30,8 +30,8 @@ This repository contains a comprehensive collection of Java programming projects
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/javaT.git
-cd javaT
+git clone https://github.com/MajdRiyad/Summer-training.git
+cd Summer-training
 ```
 
 ### Project Structure
